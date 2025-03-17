@@ -1,4 +1,8 @@
 # -MGH-Patient-Care-Performance-Dashboard-Strategic-Insights-for-Operational-Excellence
+## Interactive Webpage View
+
+## Interactive Report View
+https://app.powerbi.com/view?r=eyJrIjoiZjMxZTkwNmEtMDVjMi00ZDRhLWEwZTktZGMxOWNiNjlhYTI4IiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Description
 This project analyzes patient admission, readmission, length of stay, cost per visit, and insurance coverage data for Massachusetts General Hospital (MGH) to create an executive-level KPI dashboard. The goal is to enable data-driven decision-making for improving operational efficiency, financial planning, and patient care quality.
 
