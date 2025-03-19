@@ -1,4 +1,4 @@
-# -MGH-Patient-Care-Performance-Dashboard-Strategic-Insights-for-Operational-Excellence
+# MGH-Patient-Care-Performance-Dashboard-Strategic-Insights-for-Operational-Excellence
 ## Interactive Webpage View
 
 ## Interactive Report View
